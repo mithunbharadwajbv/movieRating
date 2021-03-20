@@ -1,0 +1,4 @@
+{
+    "ApplicattionPort" : ":9090",
+	"MongoPort"   :     "mongodb://localhost:27017"
+}
